@@ -23,7 +23,7 @@
  
 *Technologies:*
 - **Programming Languages:** Java
-- **GUI:** JavaFX
+- **GUI:** Swing
 - **Database:** MySQL
 - **Development Tools:**
   - **IDE:** IntelliJ
