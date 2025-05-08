@@ -35,5 +35,17 @@
 - Efficient handling of book transactions, user data, and security
 - User-friendly GUI with an intuitive workflow
 
+*How to Run*: In order to run, open the source code in an IDE of choice. 
+
+*Features Implemented*
+- Opening Menu
+
+*Future Work* 
+- Button Functionality
+- SQL database connection
+
+*Known Issues*
+
+
 
 
