@@ -38,13 +38,15 @@
 *How to Run*: In order to run, open the source code in an IDE of choice. 
 
 *Features Implemented*
-- Opening Menu
+- Admin Menu GUI
+- User Menu GUI
+- Admin and User Login GUI
 
 *Future Work* 
 - Button Functionality
 - SQL database connection
 
-*Known Issues*
+*Known Issues*: The buttons currently do not have functionality. We are testing out different ways of adding functionality in regards to connecting to a form of a database.
 
 
 
