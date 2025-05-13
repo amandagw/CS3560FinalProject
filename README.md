@@ -71,7 +71,19 @@
 *Future Work* 
 - SQL database connection
 - Implementing additional functions for users
-- Search function 
+- Search function
+
+*Demo Video*:  
+- Admin View   
+https://github.com/user-attachments/assets/c9d51634-159b-485d-b588-81f074a30f12  
+- User View   
+https://github.com/user-attachments/assets/14c7ef26-f0d6-4a76-951c-4053efdff4b0   
+
+*Presentation Slides*:  
+https://livecsupomona-my.sharepoint.com/:p:/g/personal/amandagwong_cpp_edu/Ea0chhoZEeBLjSKjWImWi8sBhNlGuU0_NGQQuy6zINPrmw?e=V2dYcW   
+
+
+
 
 
 
