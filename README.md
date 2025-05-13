@@ -36,7 +36,7 @@
 
 *How to Run*: There are several methods to run the program.
 
-Method 1: Run in IDE
+- Method 1: Run in IDE
 
 1. Open source code in IDE of your choice
 2. Install necessary extension packs (ex: Java Extension Pack in VS Code) and ensure folder has valid structure /src/com/library/...
@@ -44,7 +44,7 @@ Method 1: Run in IDE
 4. Click "Run ..." or click the run button
 5. The GUI window (beginning at the login screen) should pop up
 
-Method 2: Run from Terminal
+- Method 2: Run from Terminal
 
 1. cd /Users/yourname/Downloads/yourproject
 2. javac -d out src/com/library/*.java src/com/library/ui/*.java
