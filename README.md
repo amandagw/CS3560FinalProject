@@ -9,7 +9,6 @@
 - **User Authentication:** Implement secure login system for library users and library employees
 - **Book Management:** Allows library employees to add, remove, and update book/movie catalog
 - **Borrowing Transaction Processing:** Documents/tracks what/when users borrow a library item, which items are borrowed, return dates of items, and late return fees
-- **Search:** Allows users to search for items by title, author, or genre
 - **Reporting:** Generate borrowing history and overdue items
 
 *OOP Principles Applied:*
@@ -24,7 +23,7 @@
 *Technologies:*
 - **Programming Languages:** Java
 - **GUI:** Swing
-- **Database:** MySQL
+- **Database:** Internal data structures
 - **Development Tools:**
   - **IDE:** IntelliJ
   - **Version Control:** Git
@@ -35,18 +34,31 @@
 - Efficient handling of book transactions, user data, and security
 - User-friendly GUI with an intuitive workflow
 
-*How to Run*: In order to run, open the source code in an IDE of choice. 
+*How to Run*: In order to run, open the source code in an IDE of choice. If  
 
 *Features Implemented*
-- Admin Menu GUI
-- User Menu GUI
-- Admin and User Login GUI
+- Admin & User Menus
+- Admin Features
+  - Reset Data
+  - View Items
+  - View Users
+  - View Issued Items
+  - Add User
+  - Add Item
+  - Issue Item
+  - Return Item  
+- User Features
+  - View Item
+  - My Items
+  - Borrow Item
+  - Return Item 
 
 *Future Work* 
-- Button Functionality
 - SQL database connection
+- Implementing additional functions for users
+- Search function 
 
-*Known Issues*: The buttons currently do not have functionality. We are testing out different ways of adding functionality in regards to connecting to a form of a database.
+
 
 
 
