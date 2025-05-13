@@ -7,7 +7,7 @@
 
 *Key Features*: 
 - **User Authentication:** Implement secure login system for library users and library employees
-- **Book Management:** Allows library employees to add, remove, and update book/movie catalog
+- **Book Management:** Allows library employees to add to book/movie catalog
 - **Borrowing Transaction Processing:** Documents/tracks what/when users borrow a library item, which items are borrowed, return dates of items, and late return fees
 - **Reporting:** Generate borrowing history and overdue items
 
@@ -25,7 +25,7 @@
 - **GUI:** Swing
 - **Database:** Internal data structures
 - **Development Tools:**
-  - **IDE:** IntelliJ
+  - **IDE:** Visual Studio Code
   - **Version Control:** Git
  
 *Expected Outcomes:*
